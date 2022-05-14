@@ -26,6 +26,7 @@ mypy-extensions==0.4.3
 nodeenv==1.6.0
 numpy==1.22.3
 pathspec==0.9.0
+pandas==1.4.2
 Pillow==9.1.0
 pipenv==2022.3.28
 platformdirs==2.5.1
