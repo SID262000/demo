@@ -16,7 +16,7 @@ class Kmean():
     
         plt.plot(self.scores,'bx--')
         plt.title('Right number of clusters')
-        plt.xlabel('clust       ers')
+        plt.xlabel('clusters')
         plt.ylabel('WCSS')
         plt.show()  
 
